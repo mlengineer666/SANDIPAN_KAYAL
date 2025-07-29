@@ -8,7 +8,7 @@
    
   This project builds a machine learning model to classify SMS messages as SPAM or HAM (Legitimate). It uses natural language processing techniques and various classifiers to accurately detect spam messages.
 
-  📁 Dataset : (https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
+  📁 Dataset : (https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
   Problem Statement : Classify a given SMS message as **spam** or **ham** using traditional ML       models trained on the SMS Spam Collection dataset.
 
 
